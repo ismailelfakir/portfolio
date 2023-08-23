@@ -1,5 +1,5 @@
 /*---------------- typing animation ----------------*/
-var typed = new Typed('.typin',{
+var typed = new Typed('.typing',{
     strings:['','Full Stack Developer','Digital Marketer','Digital Transformer'],
     typeSpeed:100,
     backSpeed:60,
