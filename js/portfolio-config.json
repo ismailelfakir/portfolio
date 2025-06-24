@@ -1,0 +1,306 @@
+{
+  "personal": {
+    "name": "Ismail El Fakir",
+    "title": "Full Stack Developer",
+    "subtitle": "Digital Transformation Specialist",
+    "description": "Specialized in Digital Transformation & Skills Engineering | Experienced in Web Development and Microservices",
+    "location": "Casablanca, Morocco",
+    "email": "ielfakir49@gmail.com",
+    "phone": "+212 6 10 45 81 08",
+    "profileImage": "./images/me.JPG",
+    "cv": "./files/CV-ELFAKIR-Ismail-fr.pdf",
+    "bio": [
+      "I'm a passionate Full Stack Developer with experience in creating modern web applications. I specialize in React, Next.js, Node.js, and TypeScript, with a strong focus on creating responsive, accessible, and performant digital solutions.",
+      "My journey in web development began during my studies where I discovered my passion for combining creative problem-solving with technical implementation. Since then, I've worked on various projects to deliver exceptional digital experiences.",
+      "I'm particularly interested in digital transformation and skills engineering, always looking for ways to innovate and improve educational processes through technology."
+    ],
+    "socialLinks": {
+      "github": "https://github.com/ismailelfakir",
+      "linkedin": "https://linkedin.com/in/ismailelfakir",
+      "email": "mailto:ielfakir49@gmail.com",
+      "twitter": "https://twitter.com/ismailelfaker",
+      "instagram": "https://www.instagram.com/ismailelfaker/",
+      "facebook": "https://www.facebook.com/ismailelfaker/"
+    }
+  },
+  "skills": {
+    "frontend": [
+      { "name": "HTML/HTML5", "level": 92, "certificate": "https://www.sololearn.com/certificates/CT-GKXGVNEB" },
+      { "name": "CSS", "level": 86, "certificate": "https://www.sololearn.com/certificates/CT-FFHNIZKB" },
+      { "name": "JavaScript", "level": 60, "certificate": "https://www.sololearn.com/certificates/CT-OXUOUAQH" },
+      { "name": "React + Redux", "level": 40, "certificate": "https://www.sololearn.com/certificates/CT-CPADMDEO" },
+      { "name": "Responsive Web Design", "level": 92, "certificate": "https://www.sololearn.com/certificates/CT-OZOPDMYF" },
+      { "name": "TypeScript", "level": 75 },
+      { "name": "Next.js", "level": 70 },
+      { "name": "Vue.js", "level": 65 },
+      { "name": "Tailwind CSS", "level": 85 }
+    ],
+    "backend": [
+      { "name": "PHP", "level": 80, "certificate": "https://www.sololearn.com/certificates/CT-EMJSSGNB" },
+      { "name": "Python", "level": 45, "certificate": "https://www.sololearn.com/certificates/CT-ELHCJJK4" },
+      { "name": "Java", "level": 68, "certificate": "https://www.sololearn.com/certificates/CT-CFPQ2AL1" },
+      { "name": "C/C++", "level": 72 },
+      { "name": "Node.js", "level": 75 },
+      { "name": "Express.js", "level": 70 },
+      { "name": "Laravel", "level": 75 }
+    ],
+    "database": [
+      { "name": "SQL", "level": 77, "certificate": "https://www.sololearn.com/certificates/CT-OB2UEKOV" },
+      { "name": "MongoDB", "level": 10 },
+      { "name": "MySQL", "level": 75 },
+      { "name": "PostgreSQL", "level": 60 }
+    ],
+    "other": [
+      { "name": "Digital Marketing", "level": 88, "certificate": "https://drive.google.com/file/d/1tUwzGfWpvMp_-_tN9EQ6_Vt-Z3so3Osu/view" },
+      { "name": "Git", "level": 85 },
+      { "name": "Docker", "level": 60 },
+      { "name": "AWS", "level": 50 }
+    ]
+  },
+  "education": [
+    {
+      "id": "1",
+      "degree": "Master en Transformation Numérique des Processus Éducatifs et Ingénierie des Compétences (TNPEIC)",
+      "institution": "École Normale Supérieure de l'Enseignement Technique, Mohammedia",
+      "period": "2024 - Présent",
+      "description": "Specialized in digital transformation of educational processes and skills engineering."
+    },
+    {
+      "id": "2",
+      "degree": "Licence en Systèmes d'Information et Transformation Digitale",
+      "institution": "Faculté des Sciences et Techniques, SETTAT",
+      "period": "2022 - 2023",
+      "description": "Bachelor's degree focusing on information systems and digital transformation."
+    },
+    {
+      "id": "3",
+      "degree": "Diplôme Universitaire de Technologie en Mathématiques, Informatique, Physique",
+      "institution": "Faculté des Sciences et Techniques, SETTAT",
+      "period": "2019 - 2022",
+      "description": "University diploma in Mathematics, Computer Science, and Physics."
+    },
+    {
+      "id": "4",
+      "degree": "Baccalauréat en Sciences Physiques",
+      "institution": "Lycée Mohamed Zerktouni",
+      "period": "2018 - 2019",
+      "description": "High school diploma in Physical Sciences."
+    }
+  ],
+  "experience": [
+    {
+      "id": "1",
+      "title": "Full Stack Developer & Technical Leader",
+      "company": "COFOEM Academic Project",
+      "period": "01/11/2024 - 25/01/2025",
+      "description": "MERN microservices platform (jobs, training, skills).",
+      "responsibilities": [
+        "Technical leadership: task distribution, mentoring, cloud deployment.",
+        "Full-stack development with React, Node.js, MongoDB, and microservices architecture."
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Full Stack Developer",
+      "company": "Dreid Fruits (Freelance Project)",
+      "period": "15/04/2024 - 10/06/2024",
+      "description": "MERN e-commerce web app: auth, product management, orders, responsive design.",
+      "responsibilities": [
+        "Autonomous project delivery with complete client-server integration.",
+        "E-commerce platform development with modern web technologies."
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Full Stack Developer",
+      "company": "Active Cyber Security Partners",
+      "period": "01/12/2023 - 10/03/2024",
+      "description": "Microservices app with React, TypeScript, Node, MongoDB, Python.",
+      "responsibilities": [
+        "API integration, advanced algorithms, agile team collaboration.",
+        "Security-focused application development."
+      ]
+    },
+    {
+      "id": "4",
+      "title": "MERN Stack Bootcamp",
+      "company": "ARKx Academy (Internship)",
+      "period": "31/07/2023 - 31/12/2023",
+      "description": "MERN bootcamp: practical projects (auth, Redux, REST APIs).",
+      "responsibilities": [
+        "Agile collaboration, skills development on complete stack.",
+        "Hands-on experience with modern web development practices."
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Web Developer",
+      "company": "ENDOSMART (Internship)",
+      "period": "01/04/2023 - 01/06/2023",
+      "description": "Development of an environmental impact assessment platform (Laravel, Vue.js).",
+      "responsibilities": [
+        "Application of development and UI/UX best practices.",
+        "Environmental assessment platform creation."
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Volunteer Teacher",
+      "company": "Faculté des Sciences et Techniques, SETTAT",
+      "period": "2022 - 2023",
+      "description": "Support sessions on complex modules within a student club.",
+      "responsibilities": [
+        "Pedagogy, technical popularization, collective support.",
+        "Knowledge sharing and mentoring students."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Web Dev Tests QCM",
+      "description": "An interactive web application for testing knowledge in various web development domains through multiple-choice quizzes.",
+      "longDescription": "A dynamic web application designed to help users practice and improve their web development skills through interactive multiple-choice quizzes. It covers topics such as HTML, CSS, JavaScript, PHP, Apache, DNS, and Bootstrap, with real-time progress tracking, instant feedback, and detailed result summaries. Built with React 18, Vite, and Tailwind CSS, and deployed on Vercel for seamless access. The application supports French and offers an intuitive interface for an engaging learning experience.",
+      "category": "web",
+      "image": "https://res.cloudinary.com/dna1kkyex/image/upload/v1750085728/qcm-img_evg1ro.png",
+      "tags": ["React", "Vite", "Tailwind CSS", "JavaScript"],
+      "links": {
+        "demo": "https://web-dev-tests-qcm.vercel.app",
+        "github": "https://github.com/ismailelfakir/web-dev-tests-qcm"
+      },
+      "features": [
+        "Multiple-choice quizzes across web development topics",
+        "Real-time progress tracking",
+        "Instant visual feedback",
+        "Detailed result summaries with answer reviews",
+        "Responsive and modern interface",
+        "French language support"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Quality Evaluation System",
+      "description": "A web application for evaluating quality in higher education, enabling students, teachers, and staff to assess institutional aspects based on standardized criteria.",
+      "longDescription": "A sophisticated web application designed for quality evaluation in higher education institutions. It allows students, teachers, and administrative staff to assess various institutional aspects through a hierarchical structure of fields, references, criteria, and questions. The system features role-based question filtering, interactive dashboards with graphical visualizations, automated score calculations, and data export options in Markdown, Excel, and PDF formats. Built with React 18, TypeScript, and Tailwind CSS, it ensures a responsive, secure, and user-friendly experience, deployed on Vercel.",
+      "category": "web",
+      "image": "https://res.cloudinary.com/dna1kkyex/image/upload/v1750084524/mq-img_gxxgo0.png",
+      "tags": ["React", "TypeScript", "Tailwind CSS", "Lucide React", "XLSX", "jsPDF"],
+      "links": {
+        "demo": "https://qual-eval.vercel.app",
+        "github": "https://github.com/ismailelfakir/qual-eval"
+      },
+      "features": [
+        "Role-based evaluation for students, teachers, and staff",
+        "Hierarchical assessment structure (fields, references, criteria, questions)",
+        "Choice and scale question types with automated scoring",
+        "Interactive dashboards with progress charts",
+        "Data export in Markdown, Excel, and PDF",
+        "Responsive design for desktop, tablet, and mobile"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "LifeInsights Blog",
+      "description": "A modern, SEO-optimized blog platform offering practical insights on health, education, lifestyle, technology, insurance, and travel, designed for a general audience.",
+      "longDescription": "LifeInsights Blog is a professional, accessible, and performance-optimized web platform delivering high-quality content on health, education, lifestyle, technology, insurance, and travel. Built with React 18, TypeScript, and Tailwind CSS, it features over 25 comprehensive articles, organized into six categories, with SEO-friendly URLs, structured data, and Open Graph tags for enhanced discoverability. The mobile-first, WCAG-compliant design includes dark/light mode, intuitive navigation with dropdown menus, search functionality, and a newsletter signup. Deployed on Vercel, it ensures fast loading and a seamless user experience across devices.",
+      "category": "web",
+      "image": "https://res.cloudinary.com/dna1kkyex/image/upload/v1750086636/blogs-img_x3mabn.png",
+      "tags": ["React", "TypeScript", "Tailwind CSS", "Vite", "React Helmet", "Lucide React"],
+      "links": {
+        "demo": "https://life-insights-blog.vercel.app",
+        "github": "https://github.com/ismailelfakir/life-insights-blog"
+      },
+      "features": [
+        "Over 25 SEO-optimized articles across six categories",
+        "Mobile-first, WCAG-compliant responsive design",
+        "Dark/light mode with user preference storage",
+        "Professional navigation with dropdown menus and search",
+        "React Helmet for dynamic meta tags and structured data",
+        "Fast loading with lazy-loaded images and code splitting"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Environmental Impact Assessment Platform",
+      "description": "A comprehensive platform for evaluating environmental impacts developed during internship at ENDOSMART.",
+      "category": "web",
+      "image": "./images/portfolio/portfolio-1.png",
+      "tags": ["Laravel", "Vue.js", "PHP", "MySQL"],
+      "links": {
+        "github": "#"
+      }
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Web Apps",
+      "description": "I create dynamic and responsive web applications for various purposes, from e-commerce to interactive dashboards.",
+      "icon": "fa-laptop-code"
+    },
+    {
+      "id": "2",
+      "title": "Mobile Apps",
+      "description": "Crafting user-friendly apps for Android and iOS platforms to provide seamless on-the-go experiences.",
+      "icon": "fa-mobile-alt"
+    },
+    {
+      "id": "3",
+      "title": "Web Design",
+      "description": "Designing visually appealing and intuitive interfaces that enhance user interactions.",
+      "icon": "fa-palette"
+    },
+    {
+      "id": "4",
+      "title": "Back-end Development",
+      "description": "Building robust, secure, and scalable backend systems to power applications.",
+      "icon": "fa-code"
+    },
+    {
+      "id": "5",
+      "title": "Problem Solving",
+      "description": "Tackling complex challenges and finding innovative solutions to technical issues.",
+      "icon": "fa-search"
+    },
+    {
+      "id": "6",
+      "title": "Digital Marketing",
+      "description": "Promoting applications, optimizing user acquisition, and enhancing visibility through data-driven strategies.",
+      "icon": "fa-bullhorn"
+    }
+  ],
+  "contact": {
+    "title": "Get In Touch",
+    "description": "Have a question or want to work together? Feel free to reach out. I'm always open to discussing new projects, creative ideas or opportunities to be part of your vision.",
+    "contactInfo": [
+      {
+        "icon": "fa-phone",
+        "title": "Call us on",
+        "value": "+212610458108"
+      },
+      {
+        "icon": "fa-map-marker-alt",
+        "title": "Office",
+        "value": "Casablanca, Bd Paris"
+      },
+      {
+        "icon": "fa-envelope",
+        "title": "Email",
+        "value": "ismailelfakir@efism.com"
+      },
+      {
+        "icon": "fa-globe-europe",
+        "title": "Website",
+        "value": "www.efism.com"
+      }
+    ]
+  },
+  "seo": {
+    "title": "Ismail El Fakir | Full Stack Developer Portfolio",
+    "description": "Personal portfolio showcasing projects and skills in web development, digital transformation, and skills engineering",
+    "keywords": ["full stack developer", "web developer", "portfolio", "projects", "React", "Next.js", "digital transformation", "skills engineering"],
+    "author": "Ismail El Fakir",
+    "siteUrl": "https://ismailelfakir-portfolio.com",
+    "twitterHandle": "@ismailelfaker"
+  }
+}
