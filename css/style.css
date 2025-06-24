@@ -645,6 +645,38 @@ h3.my-profession{
     color: var(--text-black-700);
     font-weight: 400;
 }
+
+/* Office Hours Styles */
+.office-hours{
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.hours-info{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-top: 20px;
+}
+.hour-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 200px;
+}
+.hour-item .day{
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--text-black-900);
+    margin-bottom: 5px;
+}
+.hour-item .time{
+    font-size: 14px;
+    color: var(--text-black-700);
+}
+
 .contact .contact-form{
     flex: 0 0 100%;
     min-width: 100%;
@@ -726,6 +758,11 @@ h3.my-profession{
     }
     .home .home-img{
         display: none;
+    }
+    .hours-info{
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
     }
 }
 @media (max-width: 767px){
